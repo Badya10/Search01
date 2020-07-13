@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344667053341",
+    "firebase_url": "https://demoone-11592.firebaseio.com",
+    "project_id": "demoone-11592",
+    "storage_bucket": "demoone-11592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344667053341:android:96360f4f973d95383f95f4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344667053341-7qfihoqivqgc2vo6lrrunvnstmbt16i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQdDMzON2aSrCGI-N_Sj9c9euxz50fN5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344667053341-7qfihoqivqgc2vo6lrrunvnstmbt16i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
